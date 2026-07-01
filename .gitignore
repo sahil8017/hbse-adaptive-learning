@@ -1,0 +1,42 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Node / Next.js
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/tsconfig.tsbuildinfo
+
+# Model weights (downloaded at runtime from HF Hub)
+**/*.safetensors
+**/*.bin
+**/*.pt
+**/*.ckpt
+
+# Local databases
+db/
+*.sqlite3
+
+# Build artifacts
+backend.zip
+graphify-out/
+
+# IDE / tools
+.claude/
+.agents/
+.pytest_cache/
+
+# OS
+*.log
+*.tmp
+Thumbs.db
+.DS_Store

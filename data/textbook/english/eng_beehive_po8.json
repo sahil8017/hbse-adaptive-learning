@@ -1,0 +1,41 @@
+{
+  "chapter_id": "eng_beehive_po8",
+  "title": "A Slumber Did My Spirit Seal",
+  "book_id": "English",
+  "unit_id": "beehive_poetry_8",
+  "genre": "Poetry",
+  "author_poet": "William Wordsworth",
+  "before_you_read": [
+    "This chapter is titled 'A Slumber Did My Spirit Seal'.",
+    "Read the chapter in your textbook first, then use the AI Literature Guide for help with comprehension and analysis."
+  ],
+  "reading_nodes": [
+    {
+      "node_id": "sec1",
+      "node_title": "The State of Slumber",
+      "content": "[This section — 'The State of Slumber' from 'A Slumber Did My Spirit Seal' — will be populated with authentic HBSE textbook content. Students reading this section should refer to their physical textbook. Key themes and character analyses are available through the AI Literature Guide tab.]",
+      "inline_glossary": {}
+    },
+    {
+      "node_id": "sec2",
+      "node_title": "Merging with Nature",
+      "content": "[This section — 'Merging with Nature' from 'A Slumber Did My Spirit Seal' — will be populated with authentic HBSE textbook content. Students reading this section should refer to their physical textbook. Key themes and character analyses are available through the AI Literature Guide tab.]",
+      "inline_glossary": {}
+    }
+  ],
+  "textbook_assignments": {
+    "thinking_about_text": [
+      "What are the main events of this chapter? Summarise them in 3-4 sentences.",
+      "Who are the key characters? Describe their personalities using evidence from the text.",
+      "What is the central theme of this chapter? How is it developed?"
+    ],
+    "thinking_about_language": {
+      "vocabulary": [
+        "Find 5 new words from the chapter. Write their meanings and use them in sentences."
+      ],
+      "grammar_tasks": [
+        "Write 3 sentences using different tenses (past, present, future) to describe events from this chapter."
+      ]
+    }
+  }
+}

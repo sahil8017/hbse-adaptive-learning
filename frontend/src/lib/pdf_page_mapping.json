@@ -1,0 +1,566 @@
+{
+  "Mathematics": {
+    "math_ch1": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 11,
+        "sec2": 15,
+        "sec3": 18,
+        "sec4": 25,
+        "sec5": 28,
+        "sec6": 34
+      }
+    },
+    "math_ch10": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 178,
+        "sec2": 179,
+        "sec3": 179
+      }
+    },
+    "math_ch11": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 198,
+        "sec2": 199,
+        "sec3": 201,
+        "sec4": 202,
+        "sec5": 202
+      }
+    },
+    "math_ch12": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 207,
+        "sec2": 208,
+        "sec3": 208
+      }
+    },
+    "math_ch2": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 38,
+        "sec2": 38,
+        "sec3": 42,
+        "sec4": 45,
+        "sec5": 50,
+        "sec6": 54
+      }
+    },
+    "math_ch3": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 61,
+        "sec2": 64,
+        "sec3": 71
+      }
+    },
+    "math_ch4": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 76,
+        "sec2": 76,
+        "sec3": 78,
+        "sec4": 80,
+        "sec5": 85
+      }
+    },
+    "math_ch5": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 88,
+        "sec2": 89,
+        "sec3": 90
+      }
+    },
+    "math_ch6": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 99,
+        "sec2": 100,
+        "sec3": 102,
+        "sec4": 102,
+        "sec5": 108,
+        "sec6": 111
+      }
+    },
+    "math_ch7": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 119,
+        "sec2": 119,
+        "sec3": 122,
+        "sec4": 130,
+        "sec5": 135,
+        "sec6": 139
+      }
+    },
+    "math_ch8": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 145,
+        "sec2": 146,
+        "sec3": 147,
+        "sec4": 149,
+        "sec5": 155,
+        "sec6": 158
+      }
+    },
+    "math_ch9": {
+      "pdf_url": "/assets/books/Mathematics/Maths.pdf",
+      "pages": {
+        "sec1": 162,
+        "sec2": 163,
+        "sec3": 163,
+        "sec4": 164,
+        "sec5": 164,
+        "sec6": 165,
+        "sec7": 165,
+        "sec8": 165
+      }
+    }
+  },
+  "Science": {
+    "sci_ch1": {
+      "pdf_url": "/assets/books/Science/iesc101.pdf",
+      "pages": {
+        "sec1": 2,
+        "sec2": 4,
+        "sec3": 5,
+        "sec4": 7,
+        "sec5": 7
+      }
+    },
+    "sci_ch10": {
+      "pdf_url": "/assets/books/Science/iesc110.pdf",
+      "pages": {
+        "sec1": 1,
+        "sec2": 2,
+        "sec3": 2,
+        "sec4": 3,
+        "sec5": 4
+      }
+    },
+    "sci_ch11": {
+      "pdf_url": "/assets/books/Science/iesc111.pdf",
+      "pages": {
+        "sec1": 2,
+        "sec2": 2,
+        "sec3": 3,
+        "sec4": 3,
+        "sec5": 3,
+        "sec6": 4
+      }
+    },
+    "sci_ch12": {
+      "pdf_url": "/assets/books/Science/iesc112.pdf",
+      "pages": {
+        "sec1": 2,
+        "sec2": 2,
+        "sec3": 3
+      }
+    },
+    "sci_ch2": {
+      "pdf_url": "/assets/books/Science/iesc102.pdf",
+      "pages": {
+        "sec1": 2,
+        "sec2": 3,
+        "sec3": 3,
+        "sec4": 4,
+        "sec5": 4
+      }
+    },
+    "sci_ch3": {
+      "pdf_url": "/assets/books/Science/iesc103.pdf",
+      "pages": {
+        "sec1": 2,
+        "sec2": 2,
+        "sec3": 3,
+        "sec4": 3,
+        "sec5": 3
+      }
+    },
+    "sci_ch4": {
+      "pdf_url": "/assets/books/Science/iesc104.pdf",
+      "pages": {
+        "sec1": 2,
+        "sec2": 3,
+        "sec3": 3,
+        "sec4": 3,
+        "sec5": 4,
+        "sec6": 4
+      }
+    },
+    "sci_ch5": {
+      "pdf_url": "/assets/books/Science/iesc105.pdf",
+      "pages": {
+        "sec1": 2,
+        "sec2": 2,
+        "sec3": 2,
+        "sec4": 3
+      }
+    },
+    "sci_ch6": {
+      "pdf_url": "/assets/books/Science/iesc106.pdf",
+      "pages": {
+        "sec1": 1,
+        "sec2": 2,
+        "sec3": 2
+      }
+    },
+    "sci_ch7": {
+      "pdf_url": "/assets/books/Science/iesc107.pdf",
+      "pages": {
+        "sec1": 1,
+        "sec2": 2,
+        "sec3": 2,
+        "sec4": 3,
+        "sec5": 3,
+        "sec6": 3
+      }
+    },
+    "sci_ch8": {
+      "pdf_url": "/assets/books/Science/iesc108.pdf",
+      "pages": {
+        "sec1": 2,
+        "sec2": 2,
+        "sec3": 3,
+        "sec4": 4,
+        "sec5": 5,
+        "sec6": 6
+      }
+    },
+    "sci_ch9": {
+      "pdf_url": "/assets/books/Science/iesc109.pdf",
+      "pages": {
+        "sec1": 2,
+        "sec2": 2,
+        "sec3": 3,
+        "sec4": 4,
+        "sec5": 6
+      }
+    }
+  },
+  "English": {
+    "eng_beehive_p1": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 13,
+        "sec2": 15,
+        "sec3": 15,
+        "sec4": 15,
+        "sec5": 15
+      }
+    },
+    "eng_beehive_p2": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 25,
+        "sec2": 25
+      }
+    },
+    "eng_beehive_p3": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 40,
+        "sec2": 40,
+        "sec3": 40
+      }
+    },
+    "eng_beehive_p4": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 54,
+        "sec2": 54,
+        "sec3": 54
+      }
+    },
+    "eng_beehive_p5": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 65,
+        "sec2": 65,
+        "sec3": 65
+      }
+    },
+    "eng_beehive_p6": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 76,
+        "sec2": 76,
+        "sec3": 76
+      }
+    },
+    "eng_beehive_p7": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 105,
+        "sec2": 105
+      }
+    },
+    "eng_beehive_p8": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 135,
+        "sec2": 135,
+        "sec3": 135
+      }
+    },
+    "eng_beehive_p9": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 155,
+        "sec2": 155,
+        "sec3": 155
+      }
+    },
+    "eng_beehive_po1": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 23,
+        "sec2": 23
+      }
+    },
+    "eng_beehive_po2": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 38,
+        "sec2": 38
+      }
+    },
+    "eng_beehive_po3": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 49,
+        "sec2": 49
+      }
+    },
+    "eng_beehive_po4": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 63,
+        "sec2": 63
+      }
+    },
+    "eng_beehive_po5": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 73,
+        "sec2": 73,
+        "sec3": 73
+      }
+    },
+    "eng_beehive_po6": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 88,
+        "sec2": 88
+      }
+    },
+    "eng_beehive_po7": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 118,
+        "sec2": 118
+      }
+    },
+    "eng_beehive_po8": {
+      "pdf_url": "/assets/books/English/Beehive.pdf",
+      "pages": {
+        "sec1": 144,
+        "sec2": 144
+      }
+    },
+    "eng_moments_1": {
+      "pdf_url": "/assets/books/English/Moments.pdf",
+      "pages": {
+        "sec1": 12,
+        "sec2": 12,
+        "sec3": 12
+      }
+    },
+    "eng_moments_2": {
+      "pdf_url": "/assets/books/English/Moments.pdf",
+      "pages": {
+        "sec1": 18,
+        "sec2": 18,
+        "sec3": 18
+      }
+    },
+    "eng_moments_3": {
+      "pdf_url": "/assets/books/English/Moments.pdf",
+      "pages": {
+        "sec1": 23,
+        "sec2": 23,
+        "sec3": 23
+      }
+    },
+    "eng_moments_4": {
+      "pdf_url": "/assets/books/English/Moments.pdf",
+      "pages": {
+        "sec1": 30,
+        "sec2": 30,
+        "sec3": 30
+      }
+    },
+    "eng_moments_5": {
+      "pdf_url": "/assets/books/English/Moments.pdf",
+      "pages": {
+        "sec1": 39,
+        "sec2": 39,
+        "sec3": 39
+      }
+    },
+    "eng_moments_6": {
+      "pdf_url": "/assets/books/English/Moments.pdf",
+      "pages": {
+        "sec1": 49,
+        "sec2": 49,
+        "sec3": 49
+      }
+    },
+    "eng_moments_7": {
+      "pdf_url": "/assets/books/English/Moments.pdf",
+      "pages": {
+        "sec1": 55,
+        "sec2": 55,
+        "sec3": 55
+      }
+    },
+    "eng_moments_8": {
+      "pdf_url": "/assets/books/English/Moments.pdf",
+      "pages": {
+        "sec1": 60,
+        "sec2": 60,
+        "sec3": 60
+      }
+    },
+    "eng_moments_9": {
+      "pdf_url": "/assets/books/English/Moments.pdf",
+      "pages": {
+        "sec1": 73,
+        "sec2": 73,
+        "sec3": 73
+      }
+    }
+  },
+  "Hindi": {
+    "hin_kritika_1": {
+      "pdf_url": "/assets/books/Hindi/kritika.pdf",
+      "pages": {
+        "sec1": 13,
+        "sec2": 13
+      }
+    },
+    "hin_kritika_2": {
+      "pdf_url": "/assets/books/Hindi/kritika.pdf",
+      "pages": {
+        "sec1": 25,
+        "sec2": 25
+      }
+    },
+    "hin_kritika_3": {
+      "pdf_url": "/assets/books/Hindi/kritika.pdf",
+      "pages": {
+        "sec1": 39,
+        "sec2": 39
+      }
+    },
+    "hin_kshitij_p1": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 15,
+        "sec2": 15,
+        "sec3": 15,
+        "sec4": 15,
+        "sec5": 15
+      }
+    },
+    "hin_kshitij_p2": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 35,
+        "sec2": 35
+      }
+    },
+    "hin_kshitij_p3": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 46,
+        "sec2": 46
+      }
+    },
+    "hin_kshitij_p4": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 54,
+        "sec2": 54
+      }
+    },
+    "hin_kshitij_p5": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 71,
+        "sec2": 71
+      }
+    },
+    "hin_kshitij_p6": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 79,
+        "sec2": 79
+      }
+    },
+    "hin_kshitij_po1": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 101,
+        "sec2": 101
+      }
+    },
+    "hin_kshitij_po2": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 107
+      }
+    },
+    "hin_kshitij_po3": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 112
+      }
+    },
+    "hin_kshitij_po4": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 117,
+        "sec2": 117
+      }
+    },
+    "hin_kshitij_po5": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 124
+      }
+    },
+    "hin_kshitij_po6": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 138
+      }
+    },
+    "hin_kshitij_po7": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 143
+      }
+    },
+    "hin_kshitij_po8": {
+      "pdf_url": "/assets/books/Hindi/kshitiz.pdf",
+      "pages": {
+        "sec1": 148
+      }
+    }
+  }
+}

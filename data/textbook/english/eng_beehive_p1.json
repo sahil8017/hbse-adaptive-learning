@@ -1,0 +1,83 @@
+{
+  "chapter_id": "eng_beehive_p1",
+  "title": "The Fun They Had",
+  "book_id": "English",
+  "unit_id": "beehive_unit_1",
+  "genre": "Prose",
+  "author_poet": "Isaac Asimov",
+  "before_you_read": [
+    "This story is set in the year 2157, in a world where children study at home using mechanical teachers and never attend a school building.",
+    "As you read, think about what you enjoy about your school — and what you might miss if learning became entirely electronic.",
+    "Isaac Asimov was a famous science-fiction author who imagined futures shaped by technology."
+  ],
+  "reading_nodes": [
+    {
+      "node_id": "sec1",
+      "node_title": "Margie's Diary",
+      "content": "Margie even wrote about it that night in her diary. On the page headed 17 May 2157, she wrote, 'Today Tommy found a real book!'\n\nIt was a very old book. Margie's grandfather once said that when he was a little boy, his grandfather told him that there was a time when all stories were printed on paper. They turned the pages, which were yellow and crinkly, and it was awfully funny to read words that stood still instead of moving the way they were supposed to — on a screen, you know. And then, when they turned back to the page before, it had the same words on it that it had had when they read it the first time.\n\n'Gee,' said Tommy, 'what a waste. When you're through with the book, you just throw it away, I guess. Our television screen must have had a million books on it and it's good for plenty more. I wouldn't throw it away.'\n\n'Same with mine,' said Margie. She was eleven and hadn't seen as many telebooks as Tommy had. He was thirteen.",
+      "inline_glossary": {
+        "crinkly": "wrinkled, curled or folded from age",
+        "gee": "an exclamation expressing surprise or enthusiasm (informal)",
+        "telebooks": "fictional books read on a television screen (a word from the story's future setting)"
+      }
+    },
+    {
+      "node_id": "sec2",
+      "node_title": "Tommy's Attic Book",
+      "content": "She said, 'Where did you find it?'\n\n'In my house.' He pointed without looking, because he was busy reading. 'In the attic.'\n\n'What's it about?'\n\n'School.'\n\nMargie was scornful. 'School? What's there to write about school? I hate school.' Margie always hated school, but now she hated it more than ever. The mechanical teacher had been giving her test after test in geography and she had been doing worse and worse until her mother had shaken her head sorrowfully and sent for the County Inspector.\n\nHe was a round little man with a red face and a whole box of tools with dials and wires. He smiled at Margie and gave her an apple, then took the teacher apart. Margie had hoped he wouldn't know how to put it together again, but he knew how all right, and, after an hour or so, there it was again, large and black and ugly, with a big screen on which all the lessons were shown and the questions were asked.\n\nThat wasn't so bad. The part she hated most was the slot where she had to put homework and test papers. She always had to write them out in a punch code they made her learn when she was six years old, and the mechanical teacher calculated the mark in no time.\n\nThe inspector had smiled after he was finished and patted her head. He said to her mother, 'It's not the little girl's fault, Mrs Jones. I think the geography sector was geared a little too quick. Those things happen sometimes. I've slowed it down to an average ten-year level. Actually, the overall pattern of her progress is quite satisfactory.' And he had patted Margie's head again.",
+      "inline_glossary": {
+        "scornful": "feeling contempt or lack of respect",
+        "sorrowfully": "feeling or expressing grief or sadness",
+        "County Inspector": "an official who examines and repairs mechanical teachers in the story",
+        "punch code": "a system of holes punched in cards or paper to represent data, used before digital input",
+        "calculated": "computed or worked out mathematically",
+        "geared": "set or adjusted to a particular level or speed"
+      }
+    },
+    {
+      "node_id": "sec3",
+      "node_title": "Mechanical Teacher Glitch",
+      "content": "She was thinking about the old schools they had when her grandfather's grandfather was a little boy. All the kids from the whole neighbourhood came, laughing and shouting in the schoolyard, sitting together in the schoolroom, going home together at the end of the day. They learned the same things, so they could help one another on the homework and talk about it.\n\nAnd the teachers were people...\n\nThe mechanical teacher was flashing on the screen: 'When we add the fractions 1/2 and 1/4...'\n\nMargie was thinking about how the kids must have loved it in the old days. She was thinking about the fun they had.",
+      "inline_glossary": {
+        "neighbourhood": "an area of a town or city where people live close together",
+        "fractions": "numbers that represent parts of a whole (e.g., 1/2, 1/4)"
+      }
+    },
+    {
+      "node_id": "sec4",
+      "node_title": "County Inspector's Visit",
+      "content": "Tommy looked at her with very superior eyes. 'Because it's not our kind of school, stupid. This is the old kind of school that they had hundreds and hundreds of years ago.' He added loftily, pronouncing the word carefully, 'Centuries ago.'\n\nMargie was hurt. 'Well, I don't know what kind of school they had all that time ago.' She read the book over his shoulder for a while, then said, 'Anyway, they had a teacher.'\n\n'Sure they had a teacher, but it wasn't a regular teacher. It was a man.'\n\n'A man? How could a man be a teacher?'\n\n'Well, he just told the boys and girls things and gave them homework and asked them questions.'\n\n'A man isn't smart enough.'\n\n'Sure he is. My father knows as much as my teacher.'\n\n'He can't. A man can't know as much as a teacher.'\n\n'He knows almost as much, I betcha.'",
+      "inline_glossary": {
+        "superior": "thinking oneself better than others; haughty",
+        "loftily": "in a condescending or superior manner",
+        "betcha": "informal contraction of 'I bet you'"
+      }
+    },
+    {
+      "node_id": "sec5",
+      "node_title": "Old vs New Schools",
+      "content": "Margie went into the schoolroom. It was right next to her bedroom, and the mechanical teacher was on and waiting for her. It was always on at the same time every day except Saturday and Sunday, because her mother said little girls learned better if they learned at regular hours.\n\nThe screen was lit up, and it said: 'Today's arithmetic lesson is on the addition of proper fractions. Please insert yesterday's homework in the proper slot.'\n\nMargie did so with a sigh. She was thinking about the old schools they had when her grandfather's grandfather was a little boy. All the kids from the whole neighbourhood came, laughing and shouting in the schoolyard, sitting together in the schoolroom, going home together at the end of the day. They learned the same things, so they could help one another on the homework and talk about it.\n\nAnd the teachers were people...\n\nThe mechanical teacher was flashing on the screen: 'When we add the fractions 1/2 and 1/4...'\n\nMargie was thinking about how the kids must have loved it in the old days. She was thinking about the fun they had.",
+      "inline_glossary": {
+        "arithmetic": "the branch of mathematics dealing with numbers and basic operations",
+        "proper fractions": "fractions where the numerator is less than the denominator (e.g., 1/2, 3/4)",
+        "sigh": "a long deep breath expressing sadness, relief, or longing"
+      }
+    }
+  ],
+  "textbook_assignments": {
+    "thinking_about_text": [
+      "Answer these questions: (i) How does Margie describe the real book? What does she find strange about it? (ii) What are the things about school in the old days that Margie finds surprising and appealing? (iii) Do you agree with Margie that old schools must have been more enjoyable than modern mechanical teaching? Give reasons.",
+      "This story is set in the future. What clues in the text tell you that Margie does not live in our time?"
+    ],
+    "thinking_about_language": {
+      "vocabulary": [
+        "Find the phrases from the story that mean: (a) not believing something (b) doing something in a proud, superior way (c) to be sad about something",
+        "Use these words in sentences of your own: crinkly, scornful, loftily, calculated"
+      ],
+      "grammar_tasks": [
+        "Fill in the blanks using 'if' or 'unless': (a) You will fail the test ___ you study. (b) ___ it rains, we will go out. (c) She won't come ___ you invite her.",
+        "Rewrite these sentences replacing 'if not' with 'unless': (a) If you do not run, you will miss the bus. (b) If he does not try harder, he will not pass."
+      ]
+    }
+  }
+}

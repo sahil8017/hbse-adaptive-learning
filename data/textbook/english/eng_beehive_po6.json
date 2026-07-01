@@ -1,0 +1,41 @@
+{
+  "chapter_id": "eng_beehive_po6",
+  "title": "No Men Are Foreign",
+  "book_id": "English",
+  "unit_id": "beehive_poetry_6",
+  "genre": "Poetry",
+  "author_poet": "James Kirkup",
+  "before_you_read": [
+    "This chapter is titled 'No Men Are Foreign'.",
+    "Read the chapter in your textbook first, then use the AI Literature Guide for help with comprehension and analysis."
+  ],
+  "reading_nodes": [
+    {
+      "node_id": "sec1",
+      "node_title": "Universal Brotherhood",
+      "content": "[This section — 'Universal Brotherhood' from 'No Men Are Foreign' — will be populated with authentic HBSE textbook content. Students reading this section should refer to their physical textbook. Key themes and character analyses are available through the AI Literature Guide tab.]",
+      "inline_glossary": {}
+    },
+    {
+      "node_id": "sec2",
+      "node_title": "The Evils of War",
+      "content": "[This section — 'The Evils of War' from 'No Men Are Foreign' — will be populated with authentic HBSE textbook content. Students reading this section should refer to their physical textbook. Key themes and character analyses are available through the AI Literature Guide tab.]",
+      "inline_glossary": {}
+    }
+  ],
+  "textbook_assignments": {
+    "thinking_about_text": [
+      "What are the main events of this chapter? Summarise them in 3-4 sentences.",
+      "Who are the key characters? Describe their personalities using evidence from the text.",
+      "What is the central theme of this chapter? How is it developed?"
+    ],
+    "thinking_about_language": {
+      "vocabulary": [
+        "Find 5 new words from the chapter. Write their meanings and use them in sentences."
+      ],
+      "grammar_tasks": [
+        "Write 3 sentences using different tenses (past, present, future) to describe events from this chapter."
+      ]
+    }
+  }
+}

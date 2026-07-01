@@ -1,0 +1,384 @@
+{
+  "Mathematics": [
+    {"id": "math_ch1", "title": "Number Systems", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "1.1 Introduction"},
+      {"id": "sec2", "title": "1.2 Irrational Numbers"},
+      {"id": "sec3", "title": "1.3 Real Numbers and their Decimal Expansions"},
+      {"id": "sec4", "title": "1.4 Representing Real Numbers on the Number Line"},
+      {"id": "sec5", "title": "1.5 Operations on Real Numbers"},
+      {"id": "sec6", "title": "1.6 Laws of Exponents for Real Numbers"}
+    ]},
+    {"id": "math_ch2", "title": "Polynomials", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "2.1 Introduction"},
+      {"id": "sec2", "title": "2.2 Polynomials in One Variable"},
+      {"id": "sec3", "title": "2.3 Zeroes of a Polynomial"},
+      {"id": "sec4", "title": "2.4 Remainder Theorem"},
+      {"id": "sec5", "title": "2.5 Factorisation of Polynomials"},
+      {"id": "sec6", "title": "2.6 Algebraic Identities"}
+    ]},
+    {"id": "math_ch3", "title": "Coordinate Geometry", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "3.1 Introduction"},
+      {"id": "sec2", "title": "3.2 Cartesian System"},
+      {"id": "sec3", "title": "3.3 Plotting a Point in the Plane if its Coordinates are Given"}
+    ]},
+    {"id": "math_ch4", "title": "Linear Equations in Two Variables", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "4.1 Introduction"},
+      {"id": "sec2", "title": "4.2 Linear Equations"},
+      {"id": "sec3", "title": "4.3 Solution of a Linear Equation"},
+      {"id": "sec4", "title": "4.4 Graph of a Linear Equation in Two Variables"},
+      {"id": "sec5", "title": "4.5 Equations of Lines Parallel to the x-axis and y-axis"}
+    ]},
+    {"id": "math_ch5", "title": "Introduction to Euclid's Geometry", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "5.1 Introduction"},
+      {"id": "sec2", "title": "5.2 Euclid's Definitions, Axioms and Postulates"},
+      {"id": "sec3", "title": "5.3 Equivalent Versions of Euclid's Fifth Postulate"}
+    ]},
+    {"id": "math_ch6", "title": "Lines and Angles", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "6.1 Introduction"},
+      {"id": "sec2", "title": "6.2 Basic Terms and Definitions"},
+      {"id": "sec3", "title": "6.3 Intersecting Lines and Non-intersecting Lines"},
+      {"id": "sec4", "title": "6.4 Pairs of Angles"},
+      {"id": "sec5", "title": "6.5 Parallel Lines and a Transversal"},
+      {"id": "sec6", "title": "6.6 Lines Parallel to the Same Line"}
+    ]},
+    {"id": "math_ch7", "title": "Triangles", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "7.1 Introduction"},
+      {"id": "sec2", "title": "7.2 Congruence of Triangles"},
+      {"id": "sec3", "title": "7.3 Criteria for Congruence of Triangles"},
+      {"id": "sec4", "title": "7.4 Some Properties of a Triangle"},
+      {"id": "sec5", "title": "7.5 Some More Criteria for Congruence of Triangles"},
+      {"id": "sec6", "title": "7.6 Inequalities in a Triangle"}
+    ]},
+    {"id": "math_ch8", "title": "Quadrilaterals", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "8.1 Introduction"},
+      {"id": "sec2", "title": "8.2 Angle Sum Property of a Quadrilateral"},
+      {"id": "sec3", "title": "8.3 Types of Quadrilaterals"},
+      {"id": "sec4", "title": "8.4 Properties of a Parallelogram"},
+      {"id": "sec5", "title": "8.5 Another Condition for a Quadrilateral to be a Parallelogram"},
+      {"id": "sec6", "title": "8.6 The Mid-point Theorem"}
+    ]},
+    {"id": "math_ch9", "title": "Circles", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "9.1 Introduction"},
+      {"id": "sec2", "title": "9.2 Circles and their Related Terms"},
+      {"id": "sec3", "title": "9.3 Angle Subtended by a Chord at a Point"},
+      {"id": "sec4", "title": "9.4 Perpendicular from the Centre to a Chord"},
+      {"id": "sec5", "title": "9.5 Circle through Three Points"},
+      {"id": "sec6", "title": "9.6 Equal Chords and their Distances from the Centre"},
+      {"id": "sec7", "title": "9.7 Angle Subtended by an Arc of a Circle"},
+      {"id": "sec8", "title": "9.8 Cyclic Quadrilaterals"}
+    ]},
+    {"id": "math_ch10", "title": "Heron's Formula", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "10.1 Introduction"},
+      {"id": "sec2", "title": "10.2 Area of a Triangle - by Heron's Formula"},
+      {"id": "sec3", "title": "10.3 Application of Heron's Formula in Finding Areas of Quadrilaterals"}
+    ]},
+    {"id": "math_ch11", "title": "Surface Areas and Volumes", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "11.1 Introduction"},
+      {"id": "sec2", "title": "11.2 Surface Area of a Right Circular Cone"},
+      {"id": "sec3", "title": "11.3 Surface Area of a Sphere"},
+      {"id": "sec4", "title": "11.4 Volume of a Right Circular Cone"},
+      {"id": "sec5", "title": "11.5 Volume of a Sphere"}
+    ]},
+    {"id": "math_ch12", "title": "Statistics", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "12.1 Introduction"},
+      {"id": "sec2", "title": "12.2 Graphical Representation of Data"},
+      {"id": "sec3", "title": "12.3 Measures of Central Tendency"}
+    ]}
+  ],
+  "Science": [
+    {"id": "sci_ch1", "title": "Matter in Our Surroundings", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "1.1 Physical Nature of Matter"},
+      {"id": "sec2", "title": "1.2 Characteristics of Particles of Matter"},
+      {"id": "sec3", "title": "1.3 States of Matter"},
+      {"id": "sec4", "title": "1.4 Can Matter Change its State?"},
+      {"id": "sec5", "title": "1.5 Evaporation"}
+    ]},
+    {"id": "sci_ch2", "title": "Is Matter Around Us Pure", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "2.1 What is a Mixture?"},
+      {"id": "sec2", "title": "2.2 What is a Solution?"},
+      {"id": "sec3", "title": "2.3 Separating the Components of a Mixture"},
+      {"id": "sec4", "title": "2.4 Physical and Chemical Changes"},
+      {"id": "sec5", "title": "2.5 What are the Types of Pure Substances?"}
+    ]},
+    {"id": "sci_ch3", "title": "Atoms and Molecules", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "3.1 Laws of Chemical Combination"},
+      {"id": "sec2", "title": "3.2 What is an Atom?"},
+      {"id": "sec3", "title": "3.3 What is a Molecule?"},
+      {"id": "sec4", "title": "3.4 Writing Chemical Formulae"},
+      {"id": "sec5", "title": "3.5 Molecular Mass and Mole Concept"}
+    ]},
+    {"id": "sci_ch4", "title": "Structure of the Atom", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "4.1 Charged Particles in Matter"},
+      {"id": "sec2", "title": "4.2 The Structure of an Atom"},
+      {"id": "sec3", "title": "4.3 How are Electrons Distributed?"},
+      {"id": "sec4", "title": "4.4 Valency"},
+      {"id": "sec5", "title": "4.5 Atomic Number and Mass Number"},
+      {"id": "sec6", "title": "4.6 Isotopes and Isobars"}
+    ]},
+    {"id": "sci_ch5", "title": "The Fundamental Unit of Life", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "5.1 What are Living Organisms Made of?"},
+      {"id": "sec2", "title": "5.2 What is the Cell Made of?"},
+      {"id": "sec3", "title": "5.3 Cell Wall, Nucleus, and Cytoplasm"},
+      {"id": "sec4", "title": "5.4 Cell Organelles"}
+    ]},
+    {"id": "sci_ch6", "title": "Tissues", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "6.1 Are Plants and Animals Made of Same Tissues?"},
+      {"id": "sec2", "title": "6.2 Plant Tissues"},
+      {"id": "sec3", "title": "6.3 Animal Tissues"}
+    ]},
+    {"id": "sci_ch7", "title": "Motion", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "7.1 Describing Motion"},
+      {"id": "sec2", "title": "7.2 Measuring the Rate of Motion"},
+      {"id": "sec3", "title": "7.3 Rate of Change of Velocity"},
+      {"id": "sec4", "title": "7.4 Graphical Representation of Motion"},
+      {"id": "sec5", "title": "7.5 Equations of Motion by Graphical Method"},
+      {"id": "sec6", "title": "7.6 Uniform Circular Motion"}
+    ]},
+    {"id": "sci_ch8", "title": "Force and Laws of Motion", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "8.1 Balanced and Unbalanced Forces"},
+      {"id": "sec2", "title": "8.2 First Law of Motion"},
+      {"id": "sec3", "title": "8.3 Inertia and Mass"},
+      {"id": "sec4", "title": "8.4 Second Law of Motion"},
+      {"id": "sec5", "title": "8.5 Third Law of Motion"},
+      {"id": "sec6", "title": "8.6 Conservation of Momentum"}
+    ]},
+    {"id": "sci_ch9", "title": "Gravitation", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "9.1 Gravitation and Universal Law"},
+      {"id": "sec2", "title": "9.2 Free Fall"},
+      {"id": "sec3", "title": "9.3 Mass and Weight"},
+      {"id": "sec4", "title": "9.4 Thrust and Pressure"},
+      {"id": "sec5", "title": "9.5 Archimedes' Principle and Relative Density"}
+    ]},
+    {"id": "sci_ch10", "title": "Work and Energy", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "10.1 Work"},
+      {"id": "sec2", "title": "10.2 Energy and forms of Energy"},
+      {"id": "sec3", "title": "10.3 Kinetic and Potential Energy"},
+      {"id": "sec4", "title": "10.4 Law of Conservation of Energy"},
+      {"id": "sec5", "title": "10.5 Rate of Doing Work"}
+    ]},
+    {"id": "sci_ch11", "title": "Sound", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "11.1 Production and Propagation of Sound"},
+      {"id": "sec2", "title": "11.2 Characteristics of a Sound Wave"},
+      {"id": "sec3", "title": "11.3 Speed of Sound in Different Media"},
+      {"id": "sec4", "title": "11.4 Reflection of Sound and Echo"},
+      {"id": "sec5", "title": "11.5 Range of Hearing and Ultrasound"},
+      {"id": "sec6", "title": "11.6 Structure of Human Ear"}
+    ]},
+    {"id": "sci_ch12", "title": "Improvement in Food Resources", "sub_category": "Core", "sections": [
+      {"id": "sec1", "title": "12.1 Improvement in Crop Yields"},
+      {"id": "sec2", "title": "12.2 Crop Variety and Production Management"},
+      {"id": "sec3", "title": "12.3 Animal Husbandry"}
+    ]}
+  ],
+  "English": [
+    {"id": "eng_beehive_p1", "title": "The Fun They Had", "sub_category": "Beehive - Prose", "sections": [
+      {"id": "sec1", "title": "Margie's Diary"},
+      {"id": "sec2", "title": "Tommy's Attic Book"},
+      {"id": "sec3", "title": "Mechanical Teacher Glitch"},
+      {"id": "sec4", "title": "County Inspector's Visit"},
+      {"id": "sec5", "title": "Old vs New Schools"}
+    ]},
+    {"id": "eng_beehive_p2", "title": "The Sound of Music", "sub_category": "Beehive - Prose", "sections": [
+      {"id": "sec1", "title": "Part I: Evelyn Glennie"},
+      {"id": "sec2", "title": "Part II: Bismillah Khan"}
+    ]},
+    {"id": "eng_beehive_p3", "title": "The Little Girl", "sub_category": "Beehive - Prose", "sections": [
+      {"id": "sec1", "title": "Kezia's Fear of Father"},
+      {"id": "sec2", "title": "The Birthday Present"},
+      {"id": "sec3", "title": "A Change of Heart"}
+    ]},
+    {"id": "eng_beehive_p4", "title": "A Truly Beautiful Mind", "sub_category": "Beehive - Prose", "sections": [
+      {"id": "sec1", "title": "Albert Einstein's Youth"},
+      {"id": "sec2", "title": "Scientific Discoveries"},
+      {"id": "sec3", "title": "Global Peace Advocacy"}
+    ]},
+    {"id": "eng_beehive_p5", "title": "The Snake and the Mirror", "sub_category": "Beehive - Prose", "sections": [
+      {"id": "sec1", "title": "The Doctor's Narrative"},
+      {"id": "sec2", "title": "Encounter with the Cobra"},
+      {"id": "sec3", "title": "The Escape"}
+    ]},
+    {"id": "eng_beehive_p6", "title": "My Childhood", "sub_category": "Beehive - Prose", "sections": [
+      {"id": "sec1", "title": "APJ Abdul Kalam's Family"},
+      {"id": "sec2", "title": "Early Influences and Friends"},
+      {"id": "sec3", "title": "Breaking Social Barriers"}
+    ]},
+    {"id": "eng_beehive_p7", "title": "Reach for the Top", "sub_category": "Beehive - Prose", "sections": [
+      {"id": "sec1", "title": "Part I: Santosh Yadav"},
+      {"id": "sec2", "title": "Part II: Maria Sharapova"}
+    ]},
+    {"id": "eng_beehive_p8", "title": "Kathmandu", "sub_category": "Beehive - Prose", "sections": [
+      {"id": "sec1", "title": "Pashupatinath Temple Visit"},
+      {"id": "sec2", "title": "Baudhnath Stupa Atmosphere"},
+      {"id": "sec3", "title": "Flute Seller Observation"}
+    ]},
+    {"id": "eng_beehive_p9", "title": "If I Were You", "sub_category": "Beehive - Prose", "sections": [
+      {"id": "sec1", "title": "Gerrard and the Intruder"},
+      {"id": "sec2", "title": "The Mind Games"},
+      {"id": "sec3", "title": "The Trapping"}
+    ]},
+    {"id": "eng_beehive_po1", "title": "The Road Not Taken", "sub_category": "Beehive - Poetry", "sections": [
+      {"id": "sec1", "title": "The Diverging Paths"},
+      {"id": "sec2", "title": "The Choice and its Long-term Impact"}
+    ]},
+    {"id": "eng_beehive_po2", "title": "Wind", "sub_category": "Beehive - Poetry", "sections": [
+      {"id": "sec1", "title": "Wind's Destructive Power"},
+      {"id": "sec2", "title": "Building Strong Foundations"}
+    ]},
+    {"id": "eng_beehive_po3", "title": "Rain on the Roof", "sub_category": "Beehive - Poetry", "sections": [
+      {"id": "sec1", "title": "The Melancholy and Bliss"},
+      {"id": "sec2", "title": "Memories of Mother"}
+    ]},
+    {"id": "eng_beehive_po4", "title": "The Lake Isle of Innisfree", "sub_category": "Beehive - Poetry", "sections": [
+      {"id": "sec1", "title": "Longing for Peace"},
+      {"id": "sec2", "title": "Visualizing Innisfree"}
+    ]},
+    {"id": "eng_beehive_po5", "title": "A Legend of the Northland", "sub_category": "Beehive - Poetry", "sections": [
+      {"id": "sec1", "title": "Saint Peter's Request"},
+      {"id": "sec2", "title": "The Greedy Old Woman"},
+      {"id": "sec3", "title": "The Woodpecker Curse"}
+    ]},
+    {"id": "eng_beehive_po6", "title": "No Men Are Foreign", "sub_category": "Beehive - Poetry", "sections": [
+      {"id": "sec1", "title": "Universal Brotherhood"},
+      {"id": "sec2", "title": "The Evils of War"}
+    ]},
+    {"id": "eng_beehive_po7", "title": "On Killing a Tree", "sub_category": "Beehive - Poetry", "sections": [
+      {"id": "sec1", "title": "The Resilience of Trees"},
+      {"id": "sec2", "title": "Uprooting and Destruction"}
+    ]},
+    {"id": "eng_beehive_po8", "title": "A Slumber Did My Spirit Seal", "sub_category": "Beehive - Poetry", "sections": [
+      {"id": "sec1", "title": "The State of Slumber"},
+      {"id": "sec2", "title": "Merging with Nature"}
+    ]},
+    {"id": "eng_moments_1", "title": "The Lost Child", "sub_category": "Moments", "sections": [
+      {"id": "sec1", "title": "The Fair Attractions"},
+      {"id": "sec2", "title": "Losing the Parents"},
+      {"id": "sec3", "title": "The Rescue and Distress"}
+    ]},
+    {"id": "eng_moments_2", "title": "The Adventures of Toto", "sub_category": "Moments", "sections": [
+      {"id": "sec1", "title": "Buying the Monkey"},
+      {"id": "sec2", "title": "Toto's Mischiefs"},
+      {"id": "sec3", "title": "Selling Toto Back"}
+    ]},
+    {"id": "eng_moments_3", "title": "Iswaran the Storyteller", "sub_category": "Moments", "sections": [
+      {"id": "sec1", "title": "Mahendra and Iswaran"},
+      {"id": "sec2", "title": "The Elephant Story"},
+      {"id": "sec3", "title": "The Ghost in the Night"}
+    ]},
+    {"id": "eng_moments_4", "title": "In the Kingdom of Fools", "sub_category": "Moments", "sections": [
+      {"id": "sec1", "title": "The Upside-Down Law"},
+      {"id": "sec2", "title": "The Thief and the Trial"},
+      {"id": "sec3", "title": "The Guru's Rescue Plan"}
+    ]},
+    {"id": "eng_moments_5", "title": "The Happy Prince", "sub_category": "Moments", "sections": [
+      {"id": "sec1", "title": "The Statue and the Swallow"},
+      {"id": "sec2", "title": "Helping the Poor and Needy"},
+      {"id": "sec3", "title": "The Ultimate Sacrifice"}
+    ]},
+    {"id": "eng_moments_6", "title": "Weathering the Storm in Ersama", "sub_category": "Moments", "sections": [
+      {"id": "sec1", "title": "The Super Cyclone"},
+      {"id": "sec2", "title": "Prashant's Leadership"},
+      {"id": "sec3", "title": "Reconstruction efforts"}
+    ]},
+    {"id": "eng_moments_7", "title": "The Last Leaf", "sub_category": "Moments", "sections": [
+      {"id": "sec1", "title": "Johnsy's Illness"},
+      {"id": "sec2", "title": "Behrman's Masterpiece"},
+      {"id": "sec3", "title": "The Revelation"}
+    ]},
+    {"id": "eng_moments_8", "title": "A House is Not a Home", "sub_category": "Moments", "sections": [
+      {"id": "sec1", "title": "The House Fire"},
+      {"id": "sec2", "title": "The New School adjustment"},
+      {"id": "sec3", "title": "Finding the Cat and Rebuilding"}
+    ]},
+    {"id": "eng_moments_9", "title": "The Beggar", "sub_category": "Moments", "sections": [
+      {"id": "sec1", "title": "Lushkoff and Sergei"},
+      {"id": "sec2", "title": "Olga's Compassion and Wood chopping"},
+      {"id": "sec3", "title": "Reformation"}
+    ]},
+    {"id": "eng_grammar_tenses", "title": "Tenses (Verb Forms)", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_articles", "title": "Articles", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_modals", "title": "Modals", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_conjunctions", "title": "Conjunctions", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_prepositions", "title": "Prepositions", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_narration", "title": "Indirect Speech (Narration)", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_voice", "title": "Passive Voice", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_punctuation", "title": "Punctuation", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_determiners", "title": "Determiners", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_agreement", "title": "Subject-Verb Agreement", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_grammar_clauses", "title": "Clauses", "sub_category": "Grammar", "sections": []},
+    {"id": "eng_writing_unseen", "title": "Unseen Comprehension", "sub_category": "Writing_Skills", "sections": []}
+  ],
+  "Hindi": [
+    {"id": "hin_kshitij_p1", "title": "Do Bailon Ki Katha", "sub_category": "Kshitij - Prose", "sections": [
+      {"id": "sec1", "title": "झूरी के बैल और उनका गया के घर जाना"},
+      {"id": "sec2", "title": "बैलों का विद्रोह और भागना"},
+      {"id": "sec3", "title": "छोटी बच्ची का स्नेह और कांजीहौस में कैद"},
+      {"id": "sec4", "title": "कांजीहौस की दीवार तोड़ना"},
+      {"id": "sec5", "title": "दढ़ियल कसाई से संघर्ष और घर वापसी"}
+    ]},
+    {"id": "hin_kshitij_p2", "title": "Lhasa ki Aur", "sub_category": "Kshitij - Prose", "sections": [
+      {"id": "sec1", "title": "तिब्बत यात्रा का मार्ग और कठिनाइयाँ"},
+      {"id": "sec2", "title": "सुमति का परिचय और बौद्ध मंदिर"}
+    ]},
+    {"id": "hin_kshitij_p3", "title": "Upbhoktavad ki Sanskriti", "sub_category": "Kshitij - Prose", "sections": [
+      {"id": "sec1", "title": "बाजार का प्रभाव और विज्ञापन"},
+      {"id": "sec2", "title": "सामाजिक सरोकार और दिखावे की संस्कृति"}
+    ]},
+    {"id": "hin_kshitij_p4", "title": "Sanwle Sapnon ki Yaad", "sub_category": "Kshitij - Prose", "sections": [
+      {"id": "sec1", "title": "सालिम अली का व्यक्तित्व"},
+      {"id": "sec2", "title": "पक्षियों के प्रति प्रेम और पर्यावरण संरक्षण"}
+    ]},
+    {"id": "hin_kshitij_p5", "title": "Premchand ke Phate Joote", "sub_category": "Kshitij - Prose", "sections": [
+      {"id": "sec1", "title": "प्रेमचंद की सादगी और फटे जूते का रहस्य"},
+      {"id": "sec2", "title": "दिखावे की संस्कृति पर व्यंग्य"}
+    ]},
+    {"id": "hin_kshitij_p6", "title": "Mere Bachpan ke Din", "sub_category": "Kshitij - Prose", "sections": [
+      {"id": "sec1", "title": "लेखिका के बचपन की यादें"},
+      {"id": "sec2", "title": "सांस्कृतिक परिवेश और स्वतंत्रता आंदोलन"}
+    ]},
+    {"id": "hin_kshitij_po1", "title": "Sakhiyan evan Shabad", "sub_category": "Kshitij - Poetry", "sections": [
+      {"id": "sec1", "title": "कबीर की साखियाँ (ज्ञान और भक्ति)"},
+      {"id": "sec2", "title": "कबीर के सबद (बाह्याडंबरों का विरोध)"}
+    ]},
+    {"id": "hin_kshitij_po2", "title": "Vakh", "sub_category": "Kshitij - Poetry", "sections": [
+      {"id": "sec1", "title": "ललद्यद के वाख (ईश्वर प्रेम और साधना)"}
+    ]},
+    {"id": "hin_kshitij_po3", "title": "Savaiye", "sub_category": "Kshitij - Poetry", "sections": [
+      {"id": "sec1", "title": "रसखान के सवैये (कृष्ण और ब्रज भूमि के प्रति प्रेम)"}
+    ]},
+    {"id": "hin_kshitij_po4", "title": "Qaidi aur Kokila", "sub_category": "Kshitij - Poetry", "sections": [
+      {"id": "sec1", "title": "जेल का जीवन और कोयल का क्रंदन"},
+      {"id": "sec2", "title": "क्रांतिकारियों की वेदना और प्रेरणा"}
+    ]},
+    {"id": "hin_kshitij_po5", "title": "Gram Shree", "sub_category": "Kshitij - Poetry", "sections": [
+      {"id": "sec1", "title": "गाँव की प्राकृतिक सुंदरता और फसलें"}
+    ]},
+    {"id": "hin_kshitij_po6", "title": "Megh Aaye", "sub_category": "Kshitij - Poetry", "sections": [
+      {"id": "sec1", "title": "मेघों का आगमन और गाँव का स्वागत"}
+    ]},
+    {"id": "hin_kshitij_po7", "title": "Yamraj ki Disha", "sub_category": "Kshitij - Poetry", "sections": [
+      {"id": "sec1", "title": "माँ की सीख और यमराज की दिशा (दक्षिण)"}
+    ]},
+    {"id": "hin_kshitij_po8", "title": "Bachche Kaam Par Ja Rahe Hain", "sub_category": "Kshitij - Poetry", "sections": [
+      {"id": "sec1", "title": "बाल श्रम की समस्या और सामाजिक चिंता"}
+    ]},
+    {"id": "hin_kritika_1", "title": "Is Jal Pralay Mein", "sub_category": "Kritika", "sections": [
+      {"id": "sec1", "title": "बाढ़ का विभीषिका चित्र"},
+      {"id": "sec2", "title": "पटना की बाढ़ और लोगों का संघर्ष"}
+    ]},
+    {"id": "hin_kritika_2", "title": "Mere Sang ki Auratein", "sub_category": "Kritika", "sections": [
+      {"id": "sec1", "title": "लेखिका की नानी और माँ का प्रभाव"},
+      {"id": "sec2", "title": "पारिवारिक स्वतंत्रता और शिक्षा के प्रयास"}
+    ]},
+    {"id": "hin_kritika_3", "title": "Reedh ki Haddi", "sub_category": "Kritika", "sections": [
+      {"id": "sec1", "title": "उमा की शिक्षा और विवाह का प्रस्ताव"},
+      {"id": "sec2", "title": "लड़की की आत्मनिर्भरता और रूढ़ियों पर प्रहार"}
+    ]},
+    {"id": "hin_grammar_alankar", "title": "अलंकार (Alankar)", "sub_category": "Vyakaran", "sections": []},
+    {"id": "hin_grammar_vocabulary", "title": "शब्द विचार (Tatsam, Tadbhav, पर्यायवाची, विलोम)", "sub_category": "Vyakaran", "sections": []},
+    {"id": "hin_grammar_affixes", "title": "उपसर्ग और प्रत्यय (Upsarg & Pratyay)", "sub_category": "Vyakaran", "sections": []},
+    {"id": "hin_grammar_idioms", "title": "मुहावरे और लोकोक्तियाँ (Idioms & Proverbs)", "sub_category": "Vyakaran", "sections": []},
+    {"id": "hin_grammar_samas", "title": "समास (Samas)", "sub_category": "Vyakaran", "sections": []},
+    {"id": "hin_grammar_phonetics", "title": "वर्ण विचार (Varn-Vicched)", "sub_category": "Vyakaran", "sections": []},
+    {"id": "hin_essay_writings", "title": "निबंध, पत्र एवं लेखक-परिचय", "sub_category": "Essay", "sections": []}
+  ]
+}

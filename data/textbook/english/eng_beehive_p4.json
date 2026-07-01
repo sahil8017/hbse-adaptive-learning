@@ -1,0 +1,60 @@
+{
+  "chapter_id": "eng_beehive_p4",
+  "title": "A Truly Beautiful Mind",
+  "book_id": "English",
+  "unit_id": "beehive_unit_4",
+  "genre": "Prose",
+  "author_poet": "Unknown (adapted from various biographies of Einstein)",
+  "before_you_read": [
+    "Albert Einstein is known as one of the greatest scientists in history. But he did not always show signs of academic brilliance.",
+    "This chapter explores his childhood, his passion for science, his revolutionary theories, and his commitment to world peace.",
+    "As you read, note how Einstein balanced scientific genius with deep human values."
+  ],
+  "reading_nodes": [
+    {
+      "node_id": "sec1",
+      "node_title": "Albert Einstein's Youth",
+      "content": "Albert Einstein was born in Ulm, Germany on 14 March 1879. As a child, he was slow to speak, and his parents feared he might have a learning disability. His school teachers also had low expectations of him. Yet Einstein showed an unusual curiosity about the world. At age five, he became fascinated with a magnetic compass his father showed him — he was amazed that an invisible force could push the needle. This curiosity never left him.\n\nAt school, Einstein rebelled against rote learning and mechanical memorisation. He preferred to think deeply and imaginatively. He left school early and eventually enrolled at the Swiss Federal Institute of Technology in Zurich, where he met his future wife, Mileva Maric.",
+      "inline_glossary": {
+        "rote learning": "memorising information by repetition without necessarily understanding it",
+        "compass": "a device for determining direction, typically with a magnetised needle",
+        "curiosity": "a strong desire to know or learn something"
+      }
+    },
+    {
+      "node_id": "sec2",
+      "node_title": "Scientific Discoveries",
+      "content": "In 1905 — now called Einstein's 'miracle year' — he published four groundbreaking scientific papers. The most famous of these presented the Special Theory of Relativity and the equation E = mc², which showed that energy and mass are interchangeable. This equation later became the basis for understanding nuclear energy.\n\nIn 1915 he published the General Theory of Relativity, which transformed humanity's understanding of gravity, space, and time. In 1921 he received the Nobel Prize in Physics — not for Relativity, but for his discovery of the law of the photoelectric effect.",
+      "inline_glossary": {
+        "relativity": "Einstein's theory that the laws of physics are the same for all observers regardless of their motion",
+        "photoelectric effect": "the emission of electrons when light hits a material surface — the basis of solar cells",
+        "Nobel Prize": "an international award given annually for outstanding contributions in physics, chemistry, medicine, literature, economics, and peace"
+      }
+    },
+    {
+      "node_id": "sec3",
+      "node_title": "Global Peace Advocacy",
+      "content": "After the atomic bomb was dropped on Hiroshima and Nagasaki in 1945, Einstein was deeply troubled. Though his equations had contributed to the theoretical foundation of nuclear physics, he was horrified by the destruction caused. He spent the final decade of his life advocating for world peace and nuclear disarmament.\n\nHe wrote to world leaders, co-signed the Russell–Einstein Manifesto warning of the dangers of nuclear warfare, and called for international cooperation. 'A human being is a part of the whole,' he wrote, 'called by us the universe.' He died in Princeton, USA in 1955.",
+      "inline_glossary": {
+        "disarmament": "the reduction or elimination of a country's military forces or weapons",
+        "manifesto": "a public declaration of policy, intentions, or views",
+        "advocating": "publicly supporting or recommending a cause or policy"
+      }
+    }
+  ],
+  "textbook_assignments": {
+    "thinking_about_text": [
+      "What was unusual about Einstein's early childhood? Did it indicate the genius he would become?",
+      "What is the significance of the year 1905 in Einstein's life? What did he publish?",
+      "How did Einstein contribute to world peace? Why was he troubled by the use of atomic bombs?"
+    ],
+    "thinking_about_language": {
+      "vocabulary": [
+        "Find words in the passage that mean: (a) to support or argue for (b) expressing strong disapproval (c) relating to atoms or nuclear energy"
+      ],
+      "grammar_tasks": [
+        "Convert these active voice sentences to passive voice: (a) Einstein published four papers in 1905. (b) The committee awarded him the Nobel Prize. (c) The bomb destroyed the city of Hiroshima."
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "chapter_id": "eng_beehive_p2",
+  "title": "The Sound of Music",
+  "book_id": "English",
+  "unit_id": "beehive_unit_2",
+  "genre": "Prose",
+  "author_poet": "Deborah Cowley",
+  "before_you_read": [
+    "This chapter has two parts: the story of Evelyn Glennie, a deaf percussionist, and the story of Bismillah Khan, the shehnai maestro.",
+    "Think about what it means to be deeply passionate about music. Can a person with a hearing disability still 'feel' music?",
+    "As you read Part I, pay attention to how Evelyn experiences music — not through her ears, but through her body."
+  ],
+  "reading_nodes": [
+    {
+      "node_id": "sec1",
+      "node_title": "Part I: Evelyn Glennie",
+      "content": "Evelyn Glennie lost her hearing at the age of eleven. Instead of giving up on her dream of becoming a musician, she learned to sense music through vibrations felt in different parts of her body. She pressed her hands and feet against the floors and walls during practice sessions, training herself to feel the resonance. Today she is one of the world's most celebrated solo percussionists, giving over a hundred concerts a year across the globe. She demonstrates that music is not merely about sound — it is about feeling, rhythm, and soul.\n\nEvelyn attended the Royal Academy of Music in London where she was initially told her deafness would prevent her from pursuing music professionally. She proved everyone wrong. Her teacher Ron Forbes helped her discover that she could perceive sound through touch and vibration. She plays with bare feet to feel the vibrations from the stage floor.",
+      "inline_glossary": {
+        "percussionist": "a musician who plays percussion instruments such as drums, xylophones, and timpani",
+        "resonance": "the quality of being loud, clear, and deep in sound; the vibration produced by a sound",
+        "vibration": "a rapid movement back and forth; the sensation of sound felt through the body"
+      }
+    },
+    {
+      "node_id": "sec2",
+      "node_title": "Part II: Bismillah Khan",
+      "content": "Ustad Bismillah Khan was born in Dumraon, Bihar, in 1916 and is credited with popularising the shehnai — a double-reeded wind instrument — on the concert stage. He played the shehnai at the Red Fort on India's first Independence Day in 1947, and his music became synonymous with national pride. He received the Bharat Ratna, India's highest civilian honour, in 2001.\n\nBismillah Khan was deeply religious and spent much of his life performing at the Kashi Vishwanath temple in Varanasi. He believed that music was his prayer. He often said that the Ganga river and the shehnai were his two greatest loves. Despite fame and international recognition, he lived humbly and never forgot his roots.",
+      "inline_glossary": {
+        "shehnai": "a double-reeded Indian wind instrument, traditionally played at auspicious occasions",
+        "ustad": "a title of respect for a master musician in North Indian classical tradition",
+        "Bharat Ratna": "the highest civilian award of the Republic of India"
+      }
+    }
+  ],
+  "textbook_assignments": {
+    "thinking_about_text": [
+      "How did Evelyn discover that she could perceive music even without hearing? Describe the role of her teacher in this discovery.",
+      "Why was the shehnai considered an instrument of auspicious occasions? How did Bismillah Khan change its status?",
+      "Both Evelyn Glennie and Bismillah Khan overcame great challenges. What qualities did they share that led to their success?"
+    ],
+    "thinking_about_language": {
+      "vocabulary": [
+        "Find words in the passage that mean: (a) famous and respected (b) to sense or understand (c) connected to or standing for something"
+      ],
+      "grammar_tasks": [
+        "Rewrite the following sentences in the passive voice: (a) Evelyn felt the vibrations through the floor. (b) The government awarded him the Bharat Ratna. (c) Bismillah Khan played the shehnai at the Red Fort."
+      ]
+    }
+  }
+}

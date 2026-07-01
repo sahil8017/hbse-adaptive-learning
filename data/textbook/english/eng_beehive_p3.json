@@ -1,0 +1,60 @@
+{
+  "chapter_id": "eng_beehive_p3",
+  "title": "The Little Girl",
+  "book_id": "English",
+  "unit_id": "beehive_unit_3",
+  "genre": "Prose",
+  "author_poet": "Katherine Mansfield",
+  "before_you_read": [
+    "Children often fear their parents, especially when parents are strict or distant.",
+    "As you read, notice how Kezia's feelings towards her father change over the course of the story.",
+    "Katherine Mansfield was a New Zealand author known for her sensitive exploration of family relationships."
+  ],
+  "reading_nodes": [
+    {
+      "node_id": "sec1",
+      "node_title": "Kezia's Fear of Father",
+      "content": "To Kezia, her father was a figure of authority and fear. Every morning, before he left for work, she had to say goodbye to him in the drawing room. He seemed large, stern, and distant. He spoke very little to her and when he did, his words were often critical. Kezia tried to avoid him as much as possible. She would wait until she heard the front door close before coming downstairs.\n\nKeziah's grandmother encouraged her to make her father a gift — a pin-cushion for his birthday. Kezia worked carefully, stitching the cover and filling it with paper to make it firm. But in her search for filling, she found and tore up some important documents — her father's speech for a Port Authority Meeting — not knowing what they were.",
+      "inline_glossary": {
+        "authority": "the power to give orders or make decisions",
+        "stern": "very serious and strict",
+        "pin-cushion": "a small pad for holding pins and needles",
+        "documents": "official papers containing important written information"
+      }
+    },
+    {
+      "node_id": "sec2",
+      "node_title": "The Birthday Present",
+      "content": "When her father discovered that his papers had been torn up, Kezia was punished. Her father hit her on the palms of her hands with a ruler — a punishment that felt both physically and emotionally painful. That night, lying in bed with her hands smarting, she tried to understand why adults were so difficult.\n\nShe compared her father to her neighbours' father, Mr Macdonalds, who played with his children, laughing and rolling in the grass with them. Why could her father not be like that?",
+      "inline_glossary": {
+        "smarting": "feeling a sharp, stinging pain",
+        "palms": "the inner surface of the hand between the fingers and the wrist"
+      }
+    },
+    {
+      "node_id": "sec3",
+      "node_title": "A Change of Heart",
+      "content": "One night, Kezia woke from a nightmare. Her mother was away in the hospital and the nurse was not nearby. In her fright, her father came in and held her close, warming her with his large hands. For the first time, she felt safe and comforted by him.\n\nAs she lay against his chest listening to his heartbeat, she realised that her father was not simply stern — he was also tired and hard-working. He had a big heart, but carried many burdens. 'Poor Father!' she whispered. A change had taken place in her heart.",
+      "inline_glossary": {
+        "nightmare": "a frightening dream",
+        "comforted": "made to feel calm and safe",
+        "burdens": "heavy loads; here used metaphorically to mean heavy responsibilities"
+      }
+    }
+  ],
+  "textbook_assignments": {
+    "thinking_about_text": [
+      "Why was Kezia afraid of her father at the beginning of the story?",
+      "What mistake did Kezia make while making her father's gift? How did she feel about it?",
+      "How did Kezia's feelings towards her father change by the end of the story? What caused this change?"
+    ],
+    "thinking_about_language": {
+      "vocabulary": [
+        "Find three words in the story that describe emotions. Write a sentence using each word."
+      ],
+      "grammar_tasks": [
+        "Identify the adjectives in these phrases from the story: 'a large stern man', 'little pink palms', 'a big warm bed'. Now write three sentences of your own using adjectives to describe a person you know."
+      ]
+    }
+  }
+}

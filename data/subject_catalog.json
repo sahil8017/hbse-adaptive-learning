@@ -1,0 +1,86 @@
+{
+  "Mathematics": {
+    "title": "Mathematics",
+    "slug": "mathematics",
+    "category": "core",
+    "tag": "Core",
+    "tag_class": "badge badge-purple",
+    "icon": "∑",
+    "color": "var(--mg-purple)",
+    "description": "Algebra, Geometry, Statistics and problem solving.",
+    "reader_mode": "visual_textbook",
+    "reader_component": "SectionTextbookReader",
+    "practice_component": "ScienceMathPracticePanel",
+    "textbook_format": "sections",
+    "prompt_config_path": "data/subject_mathematics_config.json",
+    "prompt_guard_key": "global_mathematics_prompt_guard",
+    "badge": {
+      "key": "math_magician",
+      "label": "Math Magician",
+      "icon": "📐"
+    }
+  },
+  "Science": {
+    "title": "Science",
+    "slug": "science",
+    "category": "core",
+    "tag": "Core",
+    "tag_class": "badge badge-green-soft",
+    "icon": "⚗",
+    "color": "var(--mg-green-dark)",
+    "description": "Physics, Chemistry, Biology and scientific reasoning.",
+    "reader_mode": "section_textbook",
+    "reader_component": "SectionTextbookReader",
+    "practice_component": "ScienceMathPracticePanel",
+    "textbook_format": "sections",
+    "prompt_config_path": "data/subject_science_config.json",
+    "prompt_guard_key": "global_science_prompt_guard",
+    "badge": {
+      "key": "science_scholar",
+      "label": "Science Scholar",
+      "icon": "🧪"
+    }
+  },
+  "English": {
+    "title": "English",
+    "slug": "english",
+    "category": "language",
+    "tag": "Language",
+    "tag_class": "badge badge-blue",
+    "icon": "A",
+    "color": "var(--mg-blue)",
+    "description": "Beehive, Moments, literature analysis and language skills.",
+    "reader_mode": "split_reader",
+    "reader_component": "DynamicNarrativeReader",
+    "practice_component": "AdaptiveLearningPanel",
+    "textbook_format": "reading_nodes",
+    "prompt_config_path": "data/subject_english_config.json",
+    "prompt_guard_key": "global_english_prompt_guard",
+    "badge": {
+      "key": "english_expert",
+      "label": "English Expert",
+      "icon": "📖"
+    }
+  },
+  "Hindi": {
+    "title": "Hindi",
+    "slug": "hindi",
+    "category": "language",
+    "tag": "Language",
+    "tag_class": "badge badge-orange",
+    "icon": "अ",
+    "color": "var(--mg-orange)",
+    "description": "Kshitij, Kritika, bhavarth and language practice.",
+    "reader_mode": "split_reader",
+    "reader_component": "DynamicHindiReader",
+    "practice_component": "HindiLearningPanel",
+    "textbook_format": "reading_nodes",
+    "prompt_config_path": "data/subject_hindi_config.json",
+    "prompt_guard_key": "global_hindi_prompt_guard",
+    "badge": {
+      "key": "hindi_master",
+      "label": "Hindi Master",
+      "icon": "✍️"
+    }
+  }
+}

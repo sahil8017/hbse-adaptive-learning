@@ -1,0 +1,57 @@
+{
+  "chapter_id": "eng_beehive_po2",
+  "title": "Wind",
+  "book_id": "English",
+  "unit_id": "beehive_poetry_2",
+  "genre": "Poetry",
+  "author_poet": "Subramania Bharati (translated from Tamil)",
+  "before_you_read": [
+    "Wind is a powerful force in nature. Think about how wind can both destroy and help.",
+    "In this poem, the poet speaks directly to the wind. As you read, notice how the wind becomes a symbol of life's challenges.",
+    "Subramania Bharati was a Tamil poet and freedom fighter who used nature as a metaphor for human strength and adversity."
+  ],
+  "reading_nodes": [
+    {
+      "node_id": "sec1",
+      "node_title": "Wind's Destructive Power",
+      "content": "Wind, come softly.\nDon't break the shutters of the windows.\nDon't scatter the papers.\nDon't throw down the books on the shelf.\nThere, look what you did — you threw them all down.\nYou tore the pages of the books.\nYou brought rain again.\n\nYou are very clever at poking fun at weaklings.\nFrail crumbling houses, crumbling doors, crumbling rafters,\nCrumbling wood, crumbling bodies, crumbling lives,\nCrumbling hearts — the wind god winnows and crushes them all.\n\nHe won't do what you tell him.\nSo, come, let's build strong homes,\nLet's join the door firmly.\nPractise to firm the body.\nMake the heart steadfast.\nDo this, and the wind will be friends with us.",
+      "inline_glossary": {
+        "shutters": "hinged covers for windows, usually made of wood or metal",
+        "rafters": "the sloping beams that support a roof",
+        "frail": "weak, delicate, easily broken",
+        "winnows": "separates grain from chaff by blowing air — here meaning: separates the weak from the strong",
+        "steadfast": "firm, unwavering, not easily moved",
+        "crumbling": "breaking apart; falling to pieces gradually"
+      }
+    },
+    {
+      "node_id": "sec2",
+      "node_title": "Building Strong Foundations",
+      "content": "The wind blows out weak fires.\nHe makes strong fires roar and flourish.\nHis friendship is good.\nWe praise him every day.\n\nThe wind god winnows and crushes the weak.\nBut he is kind to those who are strong.\nLet us make ourselves strong — in heart, in body, in purpose.\nThen the wind will be our friend and companion.\nThen we will celebrate the power of the wind together.",
+      "inline_glossary": {
+        "flourish": "grow or develop in a healthy or vigorous way",
+        "companion": "a person or thing that accompanies another; a close friend",
+        "winnows": "blows away the lighter chaff while keeping the heavier grain — used as a metaphor for eliminating weakness",
+        "roar": "make a loud, deep, continuous sound"
+      }
+    }
+  ],
+  "textbook_assignments": {
+    "thinking_about_text": [
+      "What are the things the wind does in the first stanza? List them.",
+      "What does the poet say about the wind's friendship? Who does the wind befriend?",
+      "How does the poem use the wind as a symbol? What human qualities does it represent?",
+      "What advice does the poet give to human beings to deal with the challenges of life (as symbolised by the wind)?"
+    ],
+    "thinking_about_language": {
+      "vocabulary": [
+        "Find words in the poem that describe destruction. What mood do these words create?",
+        "The poem uses repetition of the word 'crumbling'. What effect does this have on the reader?"
+      ],
+      "grammar_tasks": [
+        "The poem uses imperatives (command forms): 'Come softly', 'Don't break', 'Practise to firm'. Find three more imperatives in the poem.",
+        "Write a short paragraph (4-5 sentences) giving advice to someone facing a difficulty in life. Use at least two imperative sentences and one conditional sentence with 'if' or 'unless'."
+      ]
+    }
+  }
+}

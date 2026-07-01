@@ -1,0 +1,31 @@
+{
+  "chapter_id": "sci_ch8",
+  "title": "Force and Laws of Motion",
+  "book_id": "Science",
+  "sections": {
+    "sec1": {
+      "title": "8.1 Balanced and Unbalanced Forces",
+      "content": "Force is a push or pull that changes or tends to change the state of rest or uniform motion of an object. Galileo and Newton formulated the laws of motion. Newton's First Law (Law of Inertia) states that an object remains in rest or uniform motion unless acted upon by an external force. Second Law states the rate of change of momentum is proportional to applied force: $F = ma$. Third Law states that to every action, there is an equal and opposite reaction. Momentum is conserved in collisions."
+    },
+    "sec2": {
+      "title": "8.2 First Law of Motion",
+      "content": "Motion is the change of position of an object over time with respect to a reference point. Distance is the total path length, while displacement is the shortest distance between initial and final points. Velocity is displacement per unit time: $v = s/t$. Acceleration is the rate of change of velocity: $$a = \\frac{v - u}{t}$$ We represent motion graphically. The three equations of motion for uniform acceleration are: 1. $v = u + at$ \n2. $s = ut + \\frac{1}{2}at^2$ \n3. $v^2 - u^2 = 2as$"
+    },
+    "sec3": {
+      "title": "8.3 Inertia and Mass",
+      "content": "This section discusses the core science topic: 8.3 Inertia and Mass. It explains the physical principles, chemical compositions, or biological structures of the subject matter. Observe the diagrams carefully and note down the SI units. For instance, the SI unit of force is the Newton ($N$), the unit of work is the Joule ($J$), and the unit of temperature is the Kelvin ($K$)."
+    },
+    "sec4": {
+      "title": "8.4 Second Law of Motion",
+      "content": "Motion is the change of position of an object over time with respect to a reference point. Distance is the total path length, while displacement is the shortest distance between initial and final points. Velocity is displacement per unit time: $v = s/t$. Acceleration is the rate of change of velocity: $$a = \\frac{v - u}{t}$$ We represent motion graphically. The three equations of motion for uniform acceleration are: 1. $v = u + at$ \n2. $s = ut + \\frac{1}{2}at^2$ \n3. $v^2 - u^2 = 2as$"
+    },
+    "sec5": {
+      "title": "8.5 Third Law of Motion",
+      "content": "Motion is the change of position of an object over time with respect to a reference point. Distance is the total path length, while displacement is the shortest distance between initial and final points. Velocity is displacement per unit time: $v = s/t$. Acceleration is the rate of change of velocity: $$a = \\frac{v - u}{t}$$ We represent motion graphically. The three equations of motion for uniform acceleration are: 1. $v = u + at$ \n2. $s = ut + \\frac{1}{2}at^2$ \n3. $v^2 - u^2 = 2as$"
+    },
+    "sec6": {
+      "title": "8.6 Conservation of Momentum",
+      "content": "This section discusses the core science topic: 8.6 Conservation of Momentum. It explains the physical principles, chemical compositions, or biological structures of the subject matter. Observe the diagrams carefully and note down the SI units. For instance, the SI unit of force is the Newton ($N$), the unit of work is the Joule ($J$), and the unit of temperature is the Kelvin ($K$)."
+    }
+  }
+}

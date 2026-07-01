@@ -1,0 +1,19 @@
+{
+  "chapter_id": "math_ch12",
+  "title": "Statistics",
+  "book_id": "Mathematics",
+  "sections": {
+    "sec1": {
+      "title": "12.1 Introduction",
+      "content": "Mathematics is the study of numbers, shapes, and patterns. In this section, we lay down the foundational concepts. Understanding numbers is crucial for all branches of mathematics. We represent numbers on the number line, a straight line where each point corresponds to a real number. Let the origin be represented by $0$. Positive numbers lie on the right, and negative numbers on the left. A key concept is the set of natural numbers $\\mathbb{N} = \\{1, 2, 3, ...\\}$, whole numbers $\\mathbb{W} = \\{0, 1, 2, 3, ...\\}$, and integers $\\mathbb{Z} = \\{..., -2, -1, 0, 1, 2, ...\\}$."
+    },
+    "sec2": {
+      "title": "12.2 Graphical Representation of Data",
+      "content": "This section covers 12.2 Graphical Representation of Data in detail. It includes definitions, formulas, and step-by-step proofs. Students should learn to apply the theorems and formulas to solve exercises. Ensure that you practice drawing diagrams for geometric sections, and check equations in algebraic sections. For example, in Cartesian geometry, we use ordered pairs $(x, y)$ to represent coordinates on a 2D plane. The horizontal axis is the x-axis, and the vertical axis is the y-axis. They divide the plane into four quadrants."
+    },
+    "sec3": {
+      "title": "12.3 Measures of Central Tendency",
+      "content": "This section covers 12.3 Measures of Central Tendency in detail. It includes definitions, formulas, and step-by-step proofs. Students should learn to apply the theorems and formulas to solve exercises. Ensure that you practice drawing diagrams for geometric sections, and check equations in algebraic sections. For example, in Cartesian geometry, we use ordered pairs $(x, y)$ to represent coordinates on a 2D plane. The horizontal axis is the x-axis, and the vertical axis is the y-axis. They divide the plane into four quadrants."
+    }
+  }
+}

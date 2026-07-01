@@ -1,0 +1,27 @@
+{
+  "chapter_id": "sci_ch1",
+  "title": "Matter in Our Surroundings",
+  "book_id": "Science",
+  "sections": {
+    "sec1": {
+      "title": "1.1 Physical Nature of Matter",
+      "content": "Matter is anything that occupies space and has mass. For a long time, there were two schools of thought regarding the nature of matter. One school believed matter to be continuous like a block of wood, whereas the other thought that matter was made up of particles like sand. Let us perform an experiment: dissolve salt in water. The particles of salt get into the spaces between particles of water. This proves that matter is made of particles and they are extremely small. These particles possess kinetic energy and are in constant random motion."
+    },
+    "sec2": {
+      "title": "1.2 Characteristics of Particles of Matter",
+      "content": "Particles of matter have three main characteristics: 1. They have spaces between them (e.g. when we make tea, coffee, or lemonade, particles of one type of matter get into the spaces of the other). \n2. Particles of matter are continuously moving. They possess kinetic energy. As temperature rises, particles move faster. This is because increase in temperature increases kinetic energy, causing faster diffusion. \n3. Particles of matter attract each other. This attraction keeps the particles bound together. The strength of this force of attraction varies from substance to substance."
+    },
+    "sec3": {
+      "title": "1.3 States of Matter",
+      "content": "Matter exists in three physical states: Solid, Liquid, and Gaseous. Solids have a definite shape, distinct boundaries, and fixed volumes. They have negligible compressibility. Liquids have no fixed shape but have a fixed volume. They take the shape of the container. Liquids flow and change shape, so they are not rigid but are called fluids. Gases have no fixed shape and no fixed volume. They are highly compressible compared to solids and liquids. The particles in a gas move randomly at high speed, creating pressure on the walls of the container."
+    },
+    "sec4": {
+      "title": "1.4 Can Matter Change its State?",
+      "content": "Matter can change its state from solid to liquid, and liquid to gas. This is achieved by changing temperature or pressure. When we heat a solid, its kinetic energy increases, and the particles overcome the forces of attraction, melting into a liquid. The temperature at which a solid melts to become a liquid at atmospheric pressure is called its melting point. The heat energy required to change $1$ kg of solid into liquid at atmospheric pressure at its melting point is called latent heat of fusion. Sublimation is the direct change of state from solid to gas without changing into liquid state. For example, heating camphor or ammonium chloride."
+    },
+    "sec5": {
+      "title": "1.5 Evaporation",
+      "content": "Evaporation is the phenomenon of change of a liquid into vapours at any temperature below its boiling point. It is a surface phenomenon. Particles at the surface gain enough energy to overcome the forces of attraction of other particles and escape. Factors affecting evaporation: 1. An increase in surface area increases the rate of evaporation. \n2. An increase in temperature increases kinetic energy. \n3. A decrease in humidity increases evaporation. \n4. An increase in wind speed increases evaporation. \nEvaporation causes cooling. The particles of liquid absorb energy from the surroundings to regain the energy lost during evaporation, making the surroundings cold."
+    }
+  }
+}

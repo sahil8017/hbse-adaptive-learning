@@ -1,0 +1,41 @@
+{
+  "chapter_id": "eng_beehive_po4",
+  "title": "The Lake Isle of Innisfree",
+  "book_id": "English",
+  "unit_id": "beehive_poetry_4",
+  "genre": "Poetry",
+  "author_poet": "W.B. Yeats",
+  "before_you_read": [
+    "This chapter is titled 'The Lake Isle of Innisfree'.",
+    "Read the chapter in your textbook first, then use the AI Literature Guide for help with comprehension and analysis."
+  ],
+  "reading_nodes": [
+    {
+      "node_id": "sec1",
+      "node_title": "Longing for Peace",
+      "content": "[This section — 'Longing for Peace' from 'The Lake Isle of Innisfree' — will be populated with authentic HBSE textbook content. Students reading this section should refer to their physical textbook. Key themes and character analyses are available through the AI Literature Guide tab.]",
+      "inline_glossary": {}
+    },
+    {
+      "node_id": "sec2",
+      "node_title": "Visualizing Innisfree",
+      "content": "[This section — 'Visualizing Innisfree' from 'The Lake Isle of Innisfree' — will be populated with authentic HBSE textbook content. Students reading this section should refer to their physical textbook. Key themes and character analyses are available through the AI Literature Guide tab.]",
+      "inline_glossary": {}
+    }
+  ],
+  "textbook_assignments": {
+    "thinking_about_text": [
+      "What are the main events of this chapter? Summarise them in 3-4 sentences.",
+      "Who are the key characters? Describe their personalities using evidence from the text.",
+      "What is the central theme of this chapter? How is it developed?"
+    ],
+    "thinking_about_language": {
+      "vocabulary": [
+        "Find 5 new words from the chapter. Write their meanings and use them in sentences."
+      ],
+      "grammar_tasks": [
+        "Write 3 sentences using different tenses (past, present, future) to describe events from this chapter."
+      ]
+    }
+  }
+}

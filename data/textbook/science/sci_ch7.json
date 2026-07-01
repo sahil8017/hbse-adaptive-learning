@@ -1,0 +1,31 @@
+{
+  "chapter_id": "sci_ch7",
+  "title": "Motion",
+  "book_id": "Science",
+  "sections": {
+    "sec1": {
+      "title": "7.1 Describing Motion",
+      "content": "Motion is the change of position of an object over time with respect to a reference point. Distance is the total path length, while displacement is the shortest distance between initial and final points. Velocity is displacement per unit time: $v = s/t$. Acceleration is the rate of change of velocity: $$a = \\frac{v - u}{t}$$ We represent motion graphically. The three equations of motion for uniform acceleration are: 1. $v = u + at$ \n2. $s = ut + \\frac{1}{2}at^2$ \n3. $v^2 - u^2 = 2as$"
+    },
+    "sec2": {
+      "title": "7.2 Measuring the Rate of Motion",
+      "content": "Motion is the change of position of an object over time with respect to a reference point. Distance is the total path length, while displacement is the shortest distance between initial and final points. Velocity is displacement per unit time: $v = s/t$. Acceleration is the rate of change of velocity: $$a = \\frac{v - u}{t}$$ We represent motion graphically. The three equations of motion for uniform acceleration are: 1. $v = u + at$ \n2. $s = ut + \\frac{1}{2}at^2$ \n3. $v^2 - u^2 = 2as$"
+    },
+    "sec3": {
+      "title": "7.3 Rate of Change of Velocity",
+      "content": "Matter can change its state from solid to liquid, and liquid to gas. This is achieved by changing temperature or pressure. When we heat a solid, its kinetic energy increases, and the particles overcome the forces of attraction, melting into a liquid. The temperature at which a solid melts to become a liquid at atmospheric pressure is called its melting point. The heat energy required to change $1$ kg of solid into liquid at atmospheric pressure at its melting point is called latent heat of fusion. Sublimation is the direct change of state from solid to gas without changing into liquid state. For example, heating camphor or ammonium chloride."
+    },
+    "sec4": {
+      "title": "7.4 Graphical Representation of Motion",
+      "content": "Motion is the change of position of an object over time with respect to a reference point. Distance is the total path length, while displacement is the shortest distance between initial and final points. Velocity is displacement per unit time: $v = s/t$. Acceleration is the rate of change of velocity: $$a = \\frac{v - u}{t}$$ We represent motion graphically. The three equations of motion for uniform acceleration are: 1. $v = u + at$ \n2. $s = ut + \\frac{1}{2}at^2$ \n3. $v^2 - u^2 = 2as$"
+    },
+    "sec5": {
+      "title": "7.5 Equations of Motion by Graphical Method",
+      "content": "Motion is the change of position of an object over time with respect to a reference point. Distance is the total path length, while displacement is the shortest distance between initial and final points. Velocity is displacement per unit time: $v = s/t$. Acceleration is the rate of change of velocity: $$a = \\frac{v - u}{t}$$ We represent motion graphically. The three equations of motion for uniform acceleration are: 1. $v = u + at$ \n2. $s = ut + \\frac{1}{2}at^2$ \n3. $v^2 - u^2 = 2as$"
+    },
+    "sec6": {
+      "title": "7.6 Uniform Circular Motion",
+      "content": "Motion is the change of position of an object over time with respect to a reference point. Distance is the total path length, while displacement is the shortest distance between initial and final points. Velocity is displacement per unit time: $v = s/t$. Acceleration is the rate of change of velocity: $$a = \\frac{v - u}{t}$$ We represent motion graphically. The three equations of motion for uniform acceleration are: 1. $v = u + at$ \n2. $s = ut + \\frac{1}{2}at^2$ \n3. $v^2 - u^2 = 2as$"
+    }
+  }
+}

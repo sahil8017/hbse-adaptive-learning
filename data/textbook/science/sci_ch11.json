@@ -1,0 +1,31 @@
+{
+  "chapter_id": "sci_ch11",
+  "title": "Sound",
+  "book_id": "Science",
+  "sections": {
+    "sec1": {
+      "title": "11.1 Production and Propagation of Sound",
+      "content": "This section discusses the core science topic: 11.1 Production and Propagation of Sound. It explains the physical principles, chemical compositions, or biological structures of the subject matter. Observe the diagrams carefully and note down the SI units. For instance, the SI unit of force is the Newton ($N$), the unit of work is the Joule ($J$), and the unit of temperature is the Kelvin ($K$)."
+    },
+    "sec2": {
+      "title": "11.2 Characteristics of a Sound Wave",
+      "content": "Particles of matter have three main characteristics: 1. They have spaces between them (e.g. when we make tea, coffee, or lemonade, particles of one type of matter get into the spaces of the other). \n2. Particles of matter are continuously moving. They possess kinetic energy. As temperature rises, particles move faster. This is because increase in temperature increases kinetic energy, causing faster diffusion. \n3. Particles of matter attract each other. This attraction keeps the particles bound together. The strength of this force of attraction varies from substance to substance."
+    },
+    "sec3": {
+      "title": "11.3 Speed of Sound in Different Media",
+      "content": "This section discusses the core science topic: 11.3 Speed of Sound in Different Media. It explains the physical principles, chemical compositions, or biological structures of the subject matter. Observe the diagrams carefully and note down the SI units. For instance, the SI unit of force is the Newton ($N$), the unit of work is the Joule ($J$), and the unit of temperature is the Kelvin ($K$)."
+    },
+    "sec4": {
+      "title": "11.4 Reflection of Sound and Echo",
+      "content": "This section discusses the core science topic: 11.4 Reflection of Sound and Echo. It explains the physical principles, chemical compositions, or biological structures of the subject matter. Observe the diagrams carefully and note down the SI units. For instance, the SI unit of force is the Newton ($N$), the unit of work is the Joule ($J$), and the unit of temperature is the Kelvin ($K$)."
+    },
+    "sec5": {
+      "title": "11.5 Range of Hearing and Ultrasound",
+      "content": "This section discusses the core science topic: 11.5 Range of Hearing and Ultrasound. It explains the physical principles, chemical compositions, or biological structures of the subject matter. Observe the diagrams carefully and note down the SI units. For instance, the SI unit of force is the Newton ($N$), the unit of work is the Joule ($J$), and the unit of temperature is the Kelvin ($K$)."
+    },
+    "sec6": {
+      "title": "11.6 Structure of Human Ear",
+      "content": "This section discusses the core science topic: 11.6 Structure of Human Ear. It explains the physical principles, chemical compositions, or biological structures of the subject matter. Observe the diagrams carefully and note down the SI units. For instance, the SI unit of force is the Newton ($N$), the unit of work is the Joule ($J$), and the unit of temperature is the Kelvin ($K$)."
+    }
+  }
+}
