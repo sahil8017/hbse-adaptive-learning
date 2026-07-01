@@ -45,15 +45,24 @@ function normalizeTextbook(raw: Record<string, unknown>): Map<string, SectionCon
   const map = new Map<string, SectionContent>();
 
   if (Array.isArray(raw.reading_nodes)) {
+    let index = 1;
     for (const node of raw.reading_nodes as {
       node_id: string; node_title: string; content: string;
       inline_glossary?: Record<string, string>;
+      inline_shabdarth?: Record<string, string>;
     }[]) {
-      map.set(node.node_id, {
+      const keyTerms = Object.keys({
+        ...(node.inline_glossary ?? {}),
+        ...(node.inline_shabdarth ?? {}),
+      });
+      const sectionContent: SectionContent = {
         title: node.node_title,
         content: node.content ?? '',
-        key_terms: Object.keys(node.inline_glossary ?? {}),
-      });
+        key_terms: keyTerms,
+      };
+      map.set(node.node_id, sectionContent);
+      map.set(`sec${index}`, sectionContent);
+      index++;
     }
   } else if (raw.sections && typeof raw.sections === 'object' && !Array.isArray(raw.sections)) {
     for (const [id, sec] of Object.entries(raw.sections as Record<string, { title: string; content: string; key_terms?: string[] }>)) {
