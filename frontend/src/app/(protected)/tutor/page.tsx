@@ -72,7 +72,7 @@ export default function TutorPage() {
           setStreamText(fullText.replace(/\n*---(?:YOUTUBE_REC|YOUTUBE|YOUTUB|YOUT|YOU|YO|Y)?[\s\S]*/g, '').trimEnd());
         }
         if (chunk.type === 'youtube_rec' && chunk.video) {
-          setYoutubeRec(chunk.video);
+          setYoutubeRec(chunk.video as YouTubeRec);
         }
         if (chunk.done) break;
       }

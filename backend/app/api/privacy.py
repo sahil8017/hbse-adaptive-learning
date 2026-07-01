@@ -2,7 +2,6 @@ import logging
 import json
 import re
 from fastapi import APIRouter, Depends, HTTPException, status, Response
-from fastapi.responses import JSONResponse
 
 from backend.app.core.security import get_current_student
 from backend.app.core import database as _db

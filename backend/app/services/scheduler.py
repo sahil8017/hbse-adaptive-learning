@@ -2,7 +2,6 @@ import os
 import uuid
 import asyncio
 import logging
-from datetime import datetime, timezone
 from typing import Optional
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from backend.app.core import database as _db

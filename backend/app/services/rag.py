@@ -5,7 +5,6 @@ import time
 import asyncpg
 from sentence_transformers import SentenceTransformer
 from backend.app.core.config import settings
-from backend.app.core.prompt_security import contains_prompt_injection
 
 logger = logging.getLogger(__name__)
 

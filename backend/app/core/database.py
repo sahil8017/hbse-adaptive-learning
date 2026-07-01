@@ -1,6 +1,5 @@
 import json
 import logging
-import os
 import hashlib
 import random
 from datetime import datetime, timezone, timedelta
@@ -775,7 +774,7 @@ async def update_student_mastery(student_id: int, book_id: str, chapter_id: str,
             DO UPDATE SET {", ".join(updates)}
         """
     else:
-        query = f"""
+        query = """
             INSERT INTO student_mastery (student_id, book_id, chapter_id)
             VALUES ($1, $2, $3)
             ON CONFLICT (student_id, book_id, chapter_id)
@@ -893,10 +892,13 @@ async def export_student_data(student_id: int) -> dict:
         """, student_id)
         mastery = [dict(r) for r in mastery_rows]
         for m in mastery:
-            if m["locked_until"]: m["locked_until"] = m["locked_until"].isoformat()
-            if m["last_reviewed_at"]: m["last_reviewed_at"] = m["last_reviewed_at"].isoformat()
-            if m["review_due_at"]: m["review_due_at"] = m["review_due_at"].isoformat()
-            
+            if m["locked_until"]:
+                m["locked_until"] = m["locked_until"].isoformat()
+            if m["last_reviewed_at"]:
+                m["last_reviewed_at"] = m["last_reviewed_at"].isoformat()
+            if m["review_due_at"]:
+                m["review_due_at"] = m["review_due_at"].isoformat()
+
         exam_rows = await conn.fetch("""
             SELECT book_id, chapter_id, score, passed, timestamp, incorrect_subtopics 
             FROM exam_attempts WHERE student_id = $1
@@ -904,7 +906,8 @@ async def export_student_data(student_id: int) -> dict:
         exams = [dict(r) for r in exam_rows]
         for e in exams:
             e["passed"] = 1 if e["passed"] else 0
-            if e["timestamp"]: e["timestamp"] = e["timestamp"].isoformat()
+            if e["timestamp"]:
+                e["timestamp"] = e["timestamp"].isoformat()
             e["incorrect_subtopics"] = json.loads(e["incorrect_subtopics"]) if e["incorrect_subtopics"] else []
             
         return {
@@ -927,7 +930,8 @@ async def import_student_data(username: str, data: dict) -> bool:
             
             # parse times
             def parse_dt(val):
-                if not val: return None
+                if not val:
+                    return None
                 try:
                     return datetime.fromisoformat(val)
                 except Exception:
@@ -1375,27 +1379,10 @@ async def get_chapter_pyq_mcqs(book_id: str, chapter_id: str) -> List[Dict[str, 
         return [dict(r) for r in rows]
 
 
-async def get_latest_exam_attempt(
-    student_id: int, book_id: str, chapter_id: str
-) -> Optional[Dict[str, Any]]:
-    """
-    Return the most recent exam attempt record for a student / chapter
-    BEFORE the current attempt that was just created, used to detect first-pass.
-    Returns None if no prior attempt exists.
-    """
-    async with get_replica_pool().acquire() as conn:
-        row = await conn.fetchrow(
-            """
-            SELECT * FROM exam_attempts
-            WHERE student_id = $1 AND book_id = $2 AND chapter_id = $3
-            ORDER BY timestamp DESC LIMIT 1
-            """,
-            student_id, book_id, chapter_id,
-        )
-    return dict(row) if row else None
-
-
 # NOTE: add_question is defined earlier (see ~L670) with q_key + ON CONFLICT
 # upsert semantics. A second, non-idempotent definition used to live here and
 # silently shadowed it (Python keeps the last def), breaking PYP ingestion
 # (`unexpected keyword argument 'q_key'`). It has been removed.
+#
+# NOTE: get_latest_exam_attempt is defined earlier (see ~L850).
+# The duplicate definition that used to live here has been removed (F811).

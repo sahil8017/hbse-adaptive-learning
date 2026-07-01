@@ -13,7 +13,7 @@ from fastapi.security import HTTPAuthorizationCredentials, HTTPBearer
 from jose import JWTError, jwt
 
 from backend.app.core.config import settings
-from backend.app.core.database import get_student_by_firebase_uid, get_student_by_id
+from backend.app.core.database import get_student_by_firebase_uid
 
 security_scheme = HTTPBearer(auto_error=False)
 

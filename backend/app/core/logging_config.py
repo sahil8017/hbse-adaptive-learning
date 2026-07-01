@@ -1,6 +1,5 @@
 import structlog
 import uuid
-import logging
 from fastapi import Request
 
 def configure_logging():

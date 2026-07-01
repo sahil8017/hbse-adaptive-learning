@@ -3,10 +3,10 @@ import json
 import time
 import datetime
 import uuid
+import os
 from typing import Any, Optional
 from backend.app.core.logging_config import log as logger
 from backend.app.core.metrics import cache_hits_total, cache_misses_total
-from backend.app.core.config import settings
 
 class DateTimeEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -123,6 +123,5 @@ class CacheManager:
             if fnmatch.fnmatch(key, pattern):
                 self.fallback_cache.pop(key, None)
 
-import os
 cache_manager = CacheManager(os.getenv("REDIS_URL", "redis://localhost:6379/0"))
 

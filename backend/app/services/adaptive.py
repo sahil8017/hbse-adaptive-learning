@@ -1,4 +1,3 @@
-from dotenv import load_dotenv
 import os
 import json
 import httpx
@@ -8,10 +7,10 @@ import math
 from typing import List, Dict, Any
 
 from backend.app.core.config import settings, CHAPTERS_DATA
-from backend.app.core.database import get_student_mastery, update_student_mastery, get_adaptive_questions, add_question, get_chapter_pyq_mcqs
+from backend.app.core.database import get_student_mastery, update_student_mastery, add_question, get_chapter_pyq_mcqs
 from backend.app.services.rag import get_relevant_context, get_relevant_context_global, TEXTBOOK_BOOK_IDS, PYP_BOOK_IDS
 from backend.app.services.subject_catalog import get_subject_prompt_config, get_subject_meta
-from backend.app.core.circuit_breaker import AsyncCircuitBreaker, CircuitBreakerOpenException
+from backend.app.core.circuit_breaker import AsyncCircuitBreaker
 
 logger = logging.getLogger(__name__)
 

@@ -5,7 +5,6 @@ Students browse by subject/year and answer extracted MCQ + open questions.
 import base64
 import json
 import logging
-from typing import Optional
 
 import httpx
 from fastapi import APIRouter, Depends, HTTPException, Request, UploadFile, File, Form

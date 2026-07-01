@@ -1,7 +1,5 @@
 from fastapi import APIRouter
 
-router = APIRouter()
-
 # Import split routers
 from backend.app.api.auth import router as auth_router
 from backend.app.api.dashboard import router as dashboard_router
@@ -13,6 +11,8 @@ from backend.app.api.exam import router as exam_router
 from backend.app.api.analytics import router as analytics_router
 from backend.app.api.llm import router as llm_router
 from backend.app.api.privacy import router as privacy_router
+
+router = APIRouter()
 
 # Include routes
 router.include_router(auth_router)

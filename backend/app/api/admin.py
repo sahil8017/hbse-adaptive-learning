@@ -206,12 +206,12 @@ async def admin_ingest_materials(_admin: dict = Depends(require_admin)):
     into pgvector. Runs in a background task; returns immediately.
     """
     import asyncio
-    from fastapi.concurrency import run_in_threadpool
 
     async def _run():
         try:
             # Import here to avoid circular imports at module load time
-            import importlib.util, os, sys
+            import importlib.util
+            import os
             scripts_dir = os.path.abspath(
                 os.path.join(os.path.dirname(__file__), "..", "..", "..", "scripts")
             )

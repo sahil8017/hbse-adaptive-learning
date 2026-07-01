@@ -23,6 +23,7 @@ from backend.app.core.database import init_db
 from backend.app.core.cache import cache_manager
 from backend.app.core.limiter import limiter
 from backend.app.api.endpoints import router as api_router
+from backend.app.api.admin import router as admin_router
 from backend.app.core.logging_config import configure_logging, request_id_middleware
 from backend.app.core.metrics import http_request_duration_seconds, http_requests_total
 import structlog
@@ -334,5 +335,4 @@ async def metrics(request: Request):
 app.include_router(api_router, prefix="/api")
 
 # Include admin routes (protected by require_admin dependency)
-from backend.app.api.admin import router as admin_router
 app.include_router(admin_router, prefix="/api")
