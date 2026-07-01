@@ -208,6 +208,7 @@ async def init_db():
             min_size=5,
             max_size=50,
             max_queries=50000,
+            statement_cache_size=0,
             max_cached_statement_lifetime=300,
             max_cacheable_statement_size=15000,
             command_timeout=30.0
@@ -223,6 +224,7 @@ async def init_db():
                 min_size=5,
                 max_size=20,
                 max_queries=50000,
+                statement_cache_size=0,
                 max_cached_statement_lifetime=300,
                 max_cacheable_statement_size=15000,
                 command_timeout=30.0
